@@ -29,3 +29,21 @@ const resultado = 0.1 + 0.2 //0.3
 console.log(resultado)
 console.log(resultado.toFixed(1))
 console.log(resultado.toFixed(1) == 0.3) //true
+
+//OPERACIONES AVANZADAS
+const raizCuadrada = Math.sqrt(16) //4
+const valorAbsoluto = Math.abs(-7) //7
+const aleatorio = Math.floor(Math.random()*10+1)
+//console.log(raizCuadrada)
+//console.log(valorAbsoluto)
+console.log(aleatorio)
+
+// Lenguajes de programacion:
+                              //Runtime Exception  
+//COMPILADOS: java(JVM -> .java -> .class --> .jar). C, C++
+//INTERPRETADOS: javascript --> lee > ejecuta
+
+const numero = 2
+const boolean = true
+//conversion implicita
+console.log(numero + boolean) //3
