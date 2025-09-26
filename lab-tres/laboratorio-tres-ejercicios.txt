@@ -1,0 +1,58 @@
+--SAUl
+
+1. Crea una función que tome un número y retorne "Positivo" si es mayor 
+que cero, "Negativo" si es menor que cero, y "Cero" si es igual a cero.
+ 
+ 
+2. Escribe un programa que solicite la edad de un usuario y determine si 
+es mayor de edad (18 años o más)
+ 
+11. Escribe una función que imprima los números del 1 al 100 en la 
+consola.
+ 
+12. Crea un programa que calcule la suma de todos los números del 1 al 
+50
+ 
+29. Escribe un programa que ordene un arreglo de números de menor a 
+mayor.
+ 
+ 
+30. Crea una función que calcule la media aritmética (promedio) de un 
+arreglo de números.
+ 
+ 
+---DENNYS:
+4. Escribe una función que tome una cadena de texto y verifique si su 
+longitud es mayor a 5 caracteres.
+ 
+9. Crea un programa que determine si un número es par o impar.
+ 
+13. Escribe una función que reciba un número y calcule su factorial.
+ 
+15. Escribe un programa que imprima la tabla de multiplicar de un 
+número dado por el usuario.
+ 
+21. Escribe una función que reciba un arreglo de números y retorne un 
+nuevo arreglo con solo los números pares.
+ 
+28. Crea una función que reciba un número y determine si es un número 
+primo.
+
+
+--KEVIN:
+3. Crea una función que reciba dos números y retorne el número mayor.
+
+6. Escribe una función que reciba un número del 1 al 7 y retorne el día de
+la semana correspondiente (ej. 1 = "Lunes").
+
+14. Crea un bucle que imprima los números pares del 2 al 20.
+
+17. Escribe un programa que cuente cuántos números pares hay en un
+arreglo dado.
+
+27. Escribe un programa que genere un número aleatorio entre 1 y 100,
+y pida al usuario que lo adivine, dándole pistas de si su intento es
+mayor o menor.
+
+28. Crea una función que reciba un número y determine si es un número
+primo.
